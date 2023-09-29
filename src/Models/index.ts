@@ -4,7 +4,7 @@ import { PetFactory } from "./pet";
 import { AppointmentFactory } from "./appointment";
 import { GroomerFactory } from "./Groomer";
 
-const dbName = 'TrimTimeDb';
+const dbName = 'trimtimeDB';
 const username = 'root';
 const password = 'Password1!';
 
